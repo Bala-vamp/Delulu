@@ -2,3 +2,9 @@ Planning Poker is an Agile estimation technique used during sprint planning. Tea
 
 so learining planning poker helps us to choose the points for the user stories.
 it is combine with kanban for work progress.
+
+Tshirt size estimation:
+ Tasks are estimated as:
+ >XS, S, M, L, XL
+ >Used when requirements are not very clear
+ >Helps in rough estimation during early planning
