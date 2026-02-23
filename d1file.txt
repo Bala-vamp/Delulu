@@ -1,2 +1,4 @@
 Planning Poker is an Agile estimation technique used during sprint planning. Team members use numbered cards, usually based on Fibonacci sequence, to estimate the effort of user stories. Everyone reveals their estimate at the same time to avoid bias, and the team discusses differences before finalizing story points.”
+
 so learining planning poker helps us to choose the points for the user stories.
+it is combine with kanban for work progress.

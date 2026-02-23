@@ -1,0 +1,7 @@
+A Kanban Board is a visual board used to:
+>Track work progress
+>Manage workflow
+>Identify bottlenecks
+
+Example Columns:
+To Do → In Progress → Testing → Done
