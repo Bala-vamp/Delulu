@@ -8,3 +8,7 @@ Tshirt size estimation:
  >XS, S, M, L, XL
  >Used when requirements are not very clear
  >Helps in rough estimation during early planning
+ Ex:
+    Change Website Logo → XS
+*Very small UI change
+*Minimal effort
